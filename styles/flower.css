@@ -1,0 +1,37 @@
+/*banner related styles*/
+
+.banner-container{
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+}
+.banner-box{
+    padding:30px 0 0 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1400px;
+}
+.banner-content h2{
+    font-size: 55px;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.banner-content p {
+   margin-bottom: 25px;
+   color: rgba(39, 39, 39, 0.60);
+
+}
+
+.banner-image{
+    position: bottom right;
+}
+.button{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 18px 30px;
+    color: #FFF;
+    font-weight: 700px;
+    border: none;
+}
